@@ -18,6 +18,15 @@ The QR Image Generator is a simple web application that lets users generate QR c
 - **Back-end:** Node.js, Express.js
 - **QR Code Generation:** `qr-image` Node.js package
 
+## Screenshots
+
+### Home Page
+![Home Page](Images/Home%20Page.png)
+
+### Generated QR Code
+![Generated QR Code](Images/QR%20Page.png)
+
+
 ## Try It on Your Own Server
 
 Follow these steps for set up locally:
