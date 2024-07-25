@@ -26,30 +26,6 @@ The QR Image Generator is a simple web application that lets users generate QR c
 ### Generated QR Code
 ![Generated QR Code](Images/QR%20Page.png)
 
-
-## Try It on Your Own Server
-
-Follow these steps for set up locally:
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/shreyaspangavhane/localrepo.git
-    cd localrepo
-    ```
-
-2. **Install dependencies:**
-    ```sh
-    npm i
-    ```
-
-3. **Start the server:**
-    ```sh
-    node index.js
-    ```
-
-4. **Open the application:**
-    Open web browser and Search `http://localhost:3000` and Enter.
-
 ## Usage
 
 1. **Navigate to the application:**
@@ -64,15 +40,4 @@ Follow these steps for set up locally:
    - Click the "Download QR Image" button to download the QR code as an image.
    - Click the "Preview Website" button to open the URL in a new tab.
 
-## File Structure
-
-```plaintext
-QR-Image-Generator/
-├── views/
-│   └── index.ejs
-├── public/
-│   ├── css/
-│   │   └── main.css
-├── index.js
-├── package.json
-└── README.md
+\
