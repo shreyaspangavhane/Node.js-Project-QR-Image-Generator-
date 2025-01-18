@@ -12,6 +12,10 @@ The QR Image Generator is a simple web application that lets users generate QR c
 - Download the generated QR code image.
 - Preview the website of that URL.
 
+## Visit Here
+
+- https://qr-image-generator-27iv.onrender.com
+
 ## Technologies Used
 
 - **Front-end:** HTML, CSS, EJS (Embedded JavaScript)
